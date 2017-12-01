@@ -20,3 +20,15 @@ Also, undergone 2-month intensive training by Asean Data Analytics eXchange (ADA
 1. Programming in R & Python for data analysis
 2. Applied Statistics 
 3. Machine Learning (ML) algorithms
+
+### Bank Negara Malaysia 
+Jan 2015 - Jun 2017, Kuala Lumpur, Malaysia 
+#### Strategic Human Capital, Associate Analyst
+
+I was part of a great team who is accountable for building healthy talent pool with deep expertise through development of succession planning framework focuses on assessing suitability of the talent based on fit-for-role, behavioural competencies and leadership effectiveness.
+
+What was accomplished :- <br>
+* Assisted in the designing, formulating and reviewing of the Bank succession planning for the senior level positions in the Bank 
+* Performed gap analysis based on the profiling results to identify the required; targeted and structured leadership development interventions for the high performing talent to enhance their readiness
+* Analysed HR metrics for quarterly dashboard, pitching decks for projects and new initiatives/imperatives
+* Engaged with the Senior Officers to consolidate Management’s input and views for Talent Management initiatives
