@@ -4,9 +4,9 @@
 
 ### PROFESSIONAL WORKING EXPERIENCE
 
-### Fave
+### Fave (Attachment)
 Aug - Dec 2017, Kuala Lumpur, Malaysia
-#### Business Intelligence (Data Team)
+#### Business Intelligence (Data Team), Analyst 
 
 I was part of a dynamic team in mining data for sales & profitability analysis, customers analysis for marketing and merchandising strategies. We do love SQL, Python and talk to databases at work every day.
 
